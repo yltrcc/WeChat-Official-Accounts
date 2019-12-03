@@ -1,3 +1,7 @@
+# 每日一句
+I'm trying everything.
+我什么都要试试。
+
 题目链接
 
 [https://leetcode-cn.com/problems/remove-element/](https://leetcode-cn.com/problems/remove-element/)
@@ -90,3 +94,10 @@ class Solution {
     }
 }
 ```
+
+
+
+
+# 美文佳句
+
+在你面前，我无法做到完美，可我渴望和你一起书写属于我们的完美童话；我无法对你做到俯首帖耳，可我愿意站成一棵挺立的小树，哪怕只是陪衬你的风景；我无法承担你所有的苦痛，可我希望走进你的心里，读懂你的心灵，无言地守着你，疼着你。
