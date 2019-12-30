@@ -5,6 +5,7 @@
   * [1 NoSQL 简介](2022年1月/1-NoSQL-简介.md)
   * [2 Docker 容器与宿主机时间同步解决方案](2022年1月/2-Docker容器与宿主机时间同步解决方案.md)
   * [3 dependencyManagement与dependencies](2022年1月/3-dependencyManagement与dependencies.md)
+  * [4 Want to Boost Your Brain Power on Exam Day](2022年1月/4-Want-to-Boost-Your-Brain-Power-on-Exam-Day.md)
 * [2021.12](2021年12月/README.md)
   * [6. 进制转换](2021年12月/6-进制转换.md)
   * [7. 取模运算](2021年12月/7-取模运算.md)
