@@ -98,6 +98,6 @@ B树索引可以使用部分查询和通配查询，也可以使用不等于和�
 
 ### 发表地址
 
-- 暂时未发布
+- [微信公众号](http://mp.weixin.qq.com/s?__biz=MzI5ODYyOTE0OQ==&mid=2247483859&idx=1&sn=aea843ae7ea2ed63062dc10dd8f9f589&chksm=eca3a0a1dbd429b7d798b18488bc9a2091ce412a9eec7e78337cebcf4d66e71600ebffe3578b#rd)
 
 - [gitbook](https://yltrcc.gitbook.io/wechat-official-accounts/2021.11/2mysql-cun-chu-yin-qing)
