@@ -342,7 +342,7 @@ mkdir -p /usr/yltrcc/mongodb/replica_sets/myrs_arb
 
 
 
-# 设置从节点读操作权限
+## 设置从节点读操作权限
 
 当前从节点只是一个备份，不是奴隶节点，无法读取数据，写当然更不行。因为默认情况下，从节点是没有读写权限的，可以增加读的权限，但需要进行设置。
 
@@ -358,7 +358,33 @@ mkdir -p /usr/yltrcc/mongodb/replica_sets/myrs_arb
 
 ### 1主1从1仲裁 不可以吗？
 
-这种是不可以添加仲裁节点的，非仲裁者的数量要大于投票节点的大多数，具体请查看：[https://docs.mongodb.com/manual/reference/write-concern/](https://docs.mongodb.com/manual/reference/write-concern/)
+这种是不用添加仲裁节点的，非仲裁者的数量要大于投票节点的大多数，具体请查看：[https://docs.mongodb.com/manual/reference/write-concern/](https://docs.mongodb.com/manual/reference/write-concern/)
 
 
+
+# Spring Data MongoDB 连接副本集
+
+**语法格式**：`mongodb://host1,host2,host3/articledb?connect=replicaSet&slaveOk=true&replicaSet=副本集名字`
+
+**参数说明**：
+
+- `slaveOk=true`：开启副本节点读的功能，可实现读写分离。
+- `connect=replicaSet`：自动到副本集中选择读写的主机。如果slaveOK是打开的，则实现了读写分离
+
+**实例**：
+
+连接 replica set 三台服务器 (端口 27017, 27018, 和27019)，直接连接第一个服务器，无论是replicaset一部分或者主服务器或者从服务器，写入操作应用在主服务器 并且分布查询到从服务器。
+
+配置文件application.yml
+
+```
+spring:
+  #数据源配置
+  data:
+    mongodb:
+      # 副本集的连接字符串
+      # uri: mongodb://192.168.40.141:27017,192.168.40.141:27018,192.168.40.141:27019/articledb?connect=replicaSet&slaveOk=true&replicaSet=myrs
+      #副本集有认证的情况下，字符串连接
+      uri: mongodb://bobo:123456@192.168.40.141:27017,192.168.40.141:27018,192.168.40.141:27019/articledb?connect=replicaSet&slaveOk=true&replicaSet=myrs
+```
 
