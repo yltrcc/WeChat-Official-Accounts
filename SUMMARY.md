@@ -7,6 +7,7 @@
   * [3 dependencyManagement与dependencies](2022年1月/3-dependencyManagement与dependencies.md)
   * [4 Want to Boost Your Brain Power on Exam Day](2022年1月/4-Want-to-Boost-Your-Brain-Power-on-Exam-Day.md)
   * [5 MongoDB 简介](2022年1月/5-MongoDB-简介.md)
+  * [6 MongoDB 安装](2022年1月/6-MongoDB-安装.md)
 * [2021.12](2021年12月/README.md)
   * [6. 进制转换](2021年12月/6-进制转换.md)
   * [7. 取模运算](2021年12月/7-取模运算.md)
