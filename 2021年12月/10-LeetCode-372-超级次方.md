@@ -50,17 +50,15 @@ $$
 
 由于 $a^(x+y) = a ^ x * a^y$以及 $a^(x*y) = (a^x)^y$，得
 
-![](https://secure1.wostatic.cn/static/qJ7sTgcM8hBDny3ukyqe1F/QQ截图20211206052257.png)
-
-
+$$
+a^{n}=\prod_{i=0}^{m-1} a^{10^{m-1-i} \cdot b_{i}}=\prod_{i=0}^{m-1}\left(a^{10^{m-1-i}}\right)^{b_{i}}
+$$
 
 可以根据如下等式计算上式括号内的部分：
 
-
-
-![](https://secure1.wostatic.cn/static/dR9X8c9DmVxH4Sz2BZijha/QQ截图20211206052331.png)
-
-
+$$
+a^{10^{k}}=a^{10^{k-1} \cdot 10}=\left(a^{10^{k-1}}\right)^{10}
+$$
 
 我们可以从$a^1
 $开始，递推出 $a^(10^k)$
@@ -94,7 +92,25 @@ class Solution {
 
 ## 题解二：秦九韶算法（正序遍历）
 
-![](https://secure1.wostatic.cn/static/abcve8p7RmHVjSfSVcQZHL/QQ截图20211206052729.png)
+由于
+
+$$
+n=\sum_{i=0}^{m-1} 10^{m-1-i} \cdot b_{i}=\left(\sum_{i=0}^{m-2} 10^{m-2-i} \cdot b_{i}\right) \cdot 10+b_{m-1}
+$$
+
+记$n^{\prime}=\sum_{i=0}^{m-2} 10^{m-2-i} \cdot b_{i}$，有
+
+$$
+a^{n}=a^{n^{\prime} \cdot 10+b_{m-1}}=\left(a^{n^{\prime}}\right)^{10} \cdot a^{b_{m-1}}
+$$
+
+根据该式，可以得到如下递推式：
+
+$$
+\operatorname{superPow}(a, b)=\left\{\begin{array}{ll}1, & m=0 \\ \operatorname{superPow}\left(a, b^{\prime}\right)^{10} \cdot a^{b_{m-1}}, & m \geq 1\end{array}\right.
+$$
+
+其中 $b^{\prime}$为b去掉末尾元素后的部分。
 
 
 
