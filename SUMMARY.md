@@ -39,7 +39,7 @@
   * [第33章. Docker 容器与宿主机时间同步解决方案](第1-50章/第33章-Docker容器与宿主机时间同步解决方案.md)
   * [第34章. dependencyManagement与dependencies](第1-50章/第34章-dependencyManagement与dependencies.md)
   * [第35章. Want to Boost Your Brain Power on Exam Day](第1-50章/第35章-Want-to-Boost-Your-Brain-Power-on-Exam-Day.md)
-  * [第36章. MongoDB 简介](第1-50章/5-MongoDB-简介.md)
+  * [第36章. MongoDB 简介](第1-50章/第36章-MongoDB-简介.md)
   * [第37章. MongoDB 安装](第1-50章/6-MongoDB-安装.md)
   * [第38章. MongoDB 常用启动参数](第1-50章/7-MongoDB-常用启动参数.md)
   * [第39章. MongoDB 体系结构与数据模型](第1-50章/8-MongoDB-体系结构与数据模型.md)
