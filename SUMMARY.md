@@ -40,7 +40,7 @@
   * [第34章. dependencyManagement与dependencies](第1-50章/第34章-dependencyManagement与dependencies.md)
   * [第35章. Want to Boost Your Brain Power on Exam Day](第1-50章/第35章-Want-to-Boost-Your-Brain-Power-on-Exam-Day.md)
   * [第36章. MongoDB 简介](第1-50章/第36章-MongoDB-简介.md)
-  * [第37章. MongoDB 安装](第1-50章/6-MongoDB-安装.md)
+  * [第37章. MongoDB 安装](第1-50章/第37章-MongoDB-安装.md)
   * [第38章. MongoDB 常用启动参数](第1-50章/7-MongoDB-常用启动参数.md)
   * [第39章. MongoDB 体系结构与数据模型](第1-50章/8-MongoDB-体系结构与数据模型.md)
   * [第40章. MongoDB 快速入门](第1-50章/9-MongoDB-快速入门.md)
