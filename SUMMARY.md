@@ -42,7 +42,7 @@
   * [第36章. MongoDB 简介](第1-50章/第36章-MongoDB-简介.md)
   * [第37章. MongoDB 安装](第1-50章/第37章-MongoDB-安装.md)
   * [第38章. MongoDB 常用启动参数](第1-50章/第38章-MongoDB-常用启动参数.md)
-  * [第39章. MongoDB 体系结构与数据模型](第1-50章/8-MongoDB-体系结构与数据模型.md)
+  * [第39章. MongoDB 体系结构与数据模型](第1-50章/第39章-MongoDB-体系结构与数据模型.md)
   * [第40章. MongoDB 快速入门](第1-50章/9-MongoDB-快速入门.md)
   * [第41章. MongoDB 设置用户名和密码](第1-50章/10-MongoDB-设置用户名和密码.md)
   * [第42章. MongoDB 命令大全](第1-50章/11-MongoDB-命令大全.md)
