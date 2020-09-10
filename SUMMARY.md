@@ -45,7 +45,7 @@
   * [第39章. MongoDB 体系结构与数据模型](第1-50章/第39章-MongoDB-体系结构与数据模型.md)
   * [第40章. MongoDB 快速入门](第1-50章/第40章-MongoDB-快速入门.md)
   * [第41章. MongoDB 设置用户名和密码](第1-50章/第41章-MongoDB-设置用户名和密码.md)
-  * [第42章. MongoDB 命令大全](第1-50章/11-MongoDB-命令大全.md)
+  * [第42章. MongoDB 命令大全](第1-50章/第42章-MongoDB-命令大全.md)
   * [第43章. MongoDB 各项命名规范](第1-50章/12-MongoDB-各项命名规范.md)
   * [第44章. MongoDB 索引](第1-50章/13-MongoDB-索引.md)
   * [第45章. MongoDB 副本集](第1-50章/14-MongoDB-副本集.md)
