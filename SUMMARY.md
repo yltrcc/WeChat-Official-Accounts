@@ -47,6 +47,6 @@
   * [第41章. MongoDB 设置用户名和密码](第1-50章/第41章-MongoDB-设置用户名和密码.md)
   * [第42章. MongoDB 命令大全](第1-50章/第42章-MongoDB-命令大全.md)
   * [第43章. MongoDB 各项命名规范](第1-50章/第43章-MongoDB-各项命名规范.md)
-  * [第44章. MongoDB 索引](第1-50章/13-MongoDB-索引.md)
+  * [第44章. MongoDB 索引](第1-50章/第44章-MongoDB-索引.md)
   * [第45章. MongoDB 副本集](第1-50章/14-MongoDB-副本集.md)
   * [第46章. MongoDB 主节点的选举原则](第1-50章/15-MongoDB-主节点的选举原则.md)
