@@ -1,3 +1,8 @@
+# 每日一句
+I must say a word about fear. It is life’s only true opponent. Only fear can defeat life. 
+这里必须说说恐惧，它是生活惟一真正的对手，因为只有恐惧才能打败生活。
+
+
 # 概述
 
 当在 Spring 中定义一个 时，你必须声明该 bean 的作用域的选项。例如，为了强制 Spring 在每次需要时都产生一个新的 bean 实例，你应该声明 bean 的作用域的属性为 **prototype**。同理，如果你想让 Spring 在每次需要时都返回同一个bean实例，你应该声明 bean 的作用域的属性为 **singleton**。
@@ -194,3 +199,7 @@ Your Message : I'm object A
 Your Message : null
 
 ```
+
+# 美文佳句
+
+一个人只要有梦想，生命就有了依托；一个人只有不懈地追逐着梦想，活着才觉得意义深远，趣味无穷，也才能将生命的潜能发挥到极致。

@@ -1,3 +1,9 @@
+# 每日一句
+A flower cannot blossom without sunshine, and man cannot live without love.  
+花没有阳光就不能盛开，人没有爱就不能生存。
+
+
+
 ### 题目来源
 
 [https://leetcode-cn.com/problems/edit-distance/](https://leetcode-cn.com/problems/edit-distance/)
@@ -43,7 +49,6 @@ exection -> execution (插入 'u')
 
 具体算法思想请看：动态规划算法
 
-![](https://secure1.wostatic.cn/static/a1nrbgrayQg9aebn9dkx2U/image.png)
 
 ```Java
 /**
@@ -217,3 +222,7 @@ class Solution {
 
 }
 ```
+
+# 美文佳句
+
+梦想不在纸上、嘴上，而在抽屉里、心里；梦想不是滔滔不绝，而是专注、专注，暂时保持沉默。
