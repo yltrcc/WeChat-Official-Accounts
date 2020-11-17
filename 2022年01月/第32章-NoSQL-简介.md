@@ -1,3 +1,7 @@
+# 每日一句
+I will not be afflicted at men's not knowing me; I will be afflicted that I do not know men. 不患人之不己知，患不知人也。
+
+# 概述
 NoSQL（Not Only SQL），意即 ”不仅仅是SQL“。
 
 在现代的计算系统中每天网络上都会产生庞大的数据量。
@@ -61,3 +65,7 @@ NoSQL是一项全新的数据库革命性运动，早期就有人提出，发展
 |xml数据库|Berkeley DB XML<br>BaseX|高效的存储XML数据，并支持XML的内部查询语法，比如XQuery,Xpath。|
 
 
+# 美文佳句
+似乎只是一夜风、一场雨，便暑去凉至，忽然秋天。沐浴在通透明丽的秋阳下，有几件渴望已久的事想要去做。
+
+秋来了，我并无什么惊天动地的大事可为，却有许多细碎平淡的小事想做。想做就去做，秋天短暂，不等人的。做到了，那便是人生乐事，幸福着呢！
