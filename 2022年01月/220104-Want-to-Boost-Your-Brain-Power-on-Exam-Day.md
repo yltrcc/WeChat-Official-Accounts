@@ -1,3 +1,10 @@
+# 每日一句
+Success is not final, failure is not fatal: it is the courage to continue that counts. 
+成功不是终点，失败也不是：重要的是继续前进的勇气。
+
+
+# 概述
+
 今日四六级，考试时如何让大脑更给力？
 
 
@@ -56,3 +63,14 @@ Remember Your Posturer
 Avoid slouching to keep from feelingstiffand tired during yourexamsession.The best way to sit at acomputer is to keep your back straightand place both feet flat on the floor.Push your hips as far back as they willgo in your chair. Your knees should beat the same height as your hips orslightly lower. r
 
 考试时不要懒散，以免感到僵硬和疲劳。 坐在电脑前最好的方法是保持背部挺直，双脚平放在地板上。 把你的臀部尽量往后推，尽量向后推。 你的膝盖应该和你的臀部一样高或稍低。 
+
+
+# 美文佳句
+
+每次看到早起的文章，下面总会有人留言：“都知道早起好处多，但就是做不到。”其实，真正尝到了甜头的人，根本不用刻意坚持早起。
+
+有位UP主曾是早起困难户，下决心早起一次，刷刷手机后又想睡个回笼觉。直到他偶然看到一个说法：你做不到早起，往往是过多的外界干扰消耗了你的意志力。
+
+他尝试改变。换上普通闹钟，保证早起后做第一件事前不碰手机。他把要做的事也拆分成了2分钟的小事：想健身，就快走两分钟；想学英语，那就背一个单词；想写脚本，就先写一行。他发现，早起做事不再艰难，充实感替代了焦虑。
+
+有人说：“能控制早晨的人，方可控制人生。”你和羡慕的生活之间，也许只有一个早起的距离。今夜，早点睡吧，有勇气结束今天，才有精力迎接更好的明天。
