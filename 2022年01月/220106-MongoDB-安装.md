@@ -1,3 +1,9 @@
+# 每日一句
+Sometimes it takes going through something so awful to realize the beauty that is out there in this world. 
+有时候就是要经历一些糟糕的事情才能意识到世间存在的美丽。
+
+# 概述
+
 本文介绍MongoDB分别在windows和linux平台下的安装与配置和MongoDB服务启动与连接。
 
 # windows安装与配置
@@ -161,3 +167,10 @@ db.shutdownServer()
 
 ```
 
+
+
+# 美文佳句
+
+同一个人，用不同的眼光去看，瞬间就不一样。很多时候我们会对身边的人吹毛求疵，可如果一味盯着别人的缺点，生活自然一地鸡毛。只有看到对方的优点，才能舒服相处。
+
+朋友间如此，爱人间亦如此。越是优秀的人，越容易看到别人的好。
