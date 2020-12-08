@@ -1,3 +1,7 @@
+# 每日一句
+If no one else guards the world, then I will come forward. 
+如果没有别人保卫这个世界，那么我将挺身而出。
+
 # 概述
 
 MongoDB主要是由文档(document)、集合(collection)、数据库(database)这三部分组成的。类比于mysql的行、表、数据库。
@@ -8,7 +12,6 @@ MongoDB主要是由文档(document)、集合(collection)、数据库(database)�
 
 MYSQL 与 MongoDB对比
 
-![](https://secure1.wostatic.cn/static/m7Hjv5vnPkUZTFqusGfLoY/image.png)
 
 MongoDB与SQL的结构对比详解
 
@@ -72,3 +75,9 @@ BSON数据类型参考列表:
 shell默认使用64位浮点型数值。{“x”：3.14}或{“x”：3}。对于整型值，可以使用NumberInt（4字节符号整数）或NumberLong（8字节符
 
 号整数），{“x”:NumberInt(“3”)}{“x”:NumberLong(“3”)}
+
+# 美文佳句
+
+读过一段话，觉得很有感触：温柔的人通常是这样诞生的，他们亲身经历过许许多多的难，过后决定不再让其他人像自己这般难过。这份体贴，人们称之为温柔。
+
+每个人的经历不同，但我相信，温柔的人必然都是具有同理心的人。他们知道有些话有些行为会让人不舒服，所以能将心比心，在尊重自己的同时也尊重别人。要想被他人温柔以待，就要先学会温柔待人。
