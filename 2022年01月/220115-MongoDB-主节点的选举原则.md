@@ -1,3 +1,8 @@
+# 每日一句
+Life is like a shower. One wrong turn and you're in hot water. 
+生活就像淋浴，方向转错，水深火热。
+
+
 # 概述
 
 MongoDB在副本集中，会自动进行主节点的选举，主节点选举的触发条件：
@@ -84,3 +89,10 @@ myrs:SECONDARY> cfg.members[1].priority=2
 myrs:SECONDARY> rs.reconfig(cfg)
 
 ```
+
+
+
+
+# 美文佳句
+
+一杯清水能滋润一寸土地，一缕阳光能驱散一丝阴影。勿以善小而不为，在日常生活中，有时候做一件好事，仅仅是举手之劳。要是每个人都能像雷锋那样，把做好事当成一种自觉的行动，把关心他人作为一种义务和责任，聚沙成塔，积少成多，我们的生活一定会更加美好，我们的社会一定会更加和谐。
