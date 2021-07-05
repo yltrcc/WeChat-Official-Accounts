@@ -39,11 +39,10 @@ InnoDB 为 mysql 提供了事务（Transaction）支持、回滚（Rollback）�
 多版本并发控制（Multi-versioned Concurrency Control））、事务安全（Transaction-safe）的操作。
 
 InnoDB的底层存储结构为B+树，B+树的每个节点都对应InnoDB的一个Page, 
-Page大小是固定的，一般被设为16KB。其中，非叶子节点只有键值，叶子节点包含完整的数据，如图7-1所示。
+Page大小是固定的，一般被设为16KB。其中，非叶子节点只有键值，叶子节点包含完整的数据
 
 ```
 
-![](https://secure1.wostatic.cn/static/58j6THCn3WmvcWuxoyT4MZ/9704e4ea49f79af4df1b913d103c154b.png)
 
 ```text
 **InnoDB 适用于有以下需求的场景：**
@@ -59,11 +58,9 @@ Page大小是固定的，一般被设为16KB。其中，非叶子节点只有键
 ```text
 TokuDB 的底层存储结构为 Fractal Tree。
 Fractal Tree 的结构与B+树有些类似，只是在 Fractal Tree 中除了每一个指针（key），都需要指向一个 child（孩子）节点，
-child节点带一个 Message Buffer，这个 Message Buffer 是一个先进先出队列，用来缓存更新操作，具体的数据结构如下图
+child节点带一个 Message Buffer，这个 Message Buffer 是一个先进先出队列，用来缓存更新操作
 
 ```
-
-![](https://secure1.wostatic.cn/static/ixbm29DZykMaRJZMmgDGrZ/67f77272507eb9c9f6075ac595bd72e1.png)
 
 ```text
 这样，每一次插入操作都只需落在某节点的 Message Buffer 上，就可以马上返回，并不需要搜索到叶子节点。
@@ -103,3 +100,4 @@ B树索引可以使用部分查询和通配查询，也可以使用不等于和�
 
 - 暂时未发布
 
+- [gitbook](https://yltrcc.gitbook.io/wechat-official-accounts/2021.11/2mysql-cun-chu-yin-qing)
